@@ -5,7 +5,8 @@ import java.util.*;
 /**
  * @Author: qinzhilong
  * @Date: 2022/11/13 21:34
- * 一个数组中有一种数出现了k次，其他数都出现了m次，m>1，k<m，找出现了k次的数，要求，额外空间复杂度O(1)，时间复杂度O(n)
+ * 一个数组中有一种数出现了k次，其他数都出现了m次，m>1，k<m，找出现了k次的数
+ * 要求:额外空间复杂度O(1)，时间复杂度O(n)
  */
 public class Kmtimes {
 
